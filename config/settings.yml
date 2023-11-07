@@ -1,9 +1,9 @@
 default:
-  valid_email_regex: /\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i
+  valid_email_regex: \A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z
   name_length_max: 50
   email_length_max: 255
 
 development:
-  valid_email_regex: /\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i
+  valid_email_regex: \A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z
   name_length_max: 50
   email_length_max: 255
