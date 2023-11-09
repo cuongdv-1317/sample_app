@@ -57,6 +57,10 @@ en:
       home: "Home"
       help: "Help"
       login: "Log in"
+      user: "Users"
+      account: "Account"
+      profile: "Profile"
+      setting: "Settings"
   helpers:
     application_helper:
       base_title: "Ruby on Rails Tutorial Sample App"
@@ -86,3 +90,9 @@ en:
       confirmation: "Pass confirmation"
     controller:
       successful_save: "User created successful"
+  invalid_email_password_combinaiton: "Invalid email password combinaiton"
+  not_found_user: "Not found user!"
+  logout: "Log out"
+  login: "Log in"
+  new_user?: "New User?"
+  sign_up_now!: "Sign Up Now!"

@@ -77,3 +77,25 @@ input, textarea, select, .uneditable-input {
 input {
   height: auto !important;
 }
+
+/* Dropdown menu */
+.dropdown-menu.active {
+  display: block;
+}
+
+ /*Logout button*/
+.custom-logout-form {
+  height: 26px;
+}
+
+.custom-logout-button {
+  color: #262626;
+  border: none;
+  text-align: left;
+  background-color: #fff;
+  padding: 3px 20px;
+}
+
+.custom-logout-button:hover {
+  background-color: #f5f5f5;
+}
