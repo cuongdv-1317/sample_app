@@ -78,3 +78,11 @@ en:
       show: "Show"
       edit: "Edit"
       destroy: "Destroy"
+  users:
+    new:
+      submit: "Create my account"
+      title: "Signup"
+      h1: "Sign up"
+      confirmation: "Pass confirmation"
+    controller:
+      successful_save: "User created successful"
